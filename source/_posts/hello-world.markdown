@@ -1,18 +1,27 @@
 ---
 layout: post
 title: "Hello World"
-date: 2012-12-13 01:39
+date: 2017-04-01 20:22
 comments: true
 tags: 
 	- 杂谈 
-	- octopress
+	- 日志
 key: "1"
 ---
 
-在Winiex的推荐和帮助下，这个octopress博客终于搭建起来了。
+<img src="http://oxoz3bzmd.bkt.clouddn.com/18-2-27/9257867.jpg-picture" alt="广州" width="400">
+<!-- ![广州](http://oxoz3bzmd.bkt.clouddn.com/18-2-27/9257867.jpg-picture) -->
 
-折腾了两天多，在github page上看到自己的博客加载下来时，突然有种错综复杂的恍惚感。是的，它不是qq空间，不是新浪博客，不是豆瓣小站，也不是贴吧。它更像是属于自己的一块小小的领地，因而我满足于这种归属感。我愿在上面安静劳作。
+之前自己基于Jekyll,以及Bootstrap, JQuery-ui自己构造了一个在github page的博客,可是总觉得,不是辣么好看。
 
-一个农民，通过自身努力终于分到了一块地，不再需要在地主的土地上创造流量价值时，于是翻身作主的他可以宣告说：Hello World。当然这个农民确切来说是个码农。
+于是在空闲时间,看了一下hexo的文档,将博客的基础搭建了起来,hexo主题挺多,找了很久的主题,最后发现一个大神自己制作的hexo主题。
 
-感谢Zespia提供的slash主题。我很喜欢这种色调。
+看着不错,就按照步骤,使用了一下。有兴趣的同学可以看一看,挺不错的,安利一下 ,感谢黎小腾同学的主题!
+
+刚开始各种问题,不编译文章呀,以及修改主题的内容呀,折腾了许久,(#^.^#)终于能看了,有了一个固定写Hello World, 日志,学习心得的地方,自己还是有小小满足感的。
+
+最后感谢**litten**分享的[yilia](https://github.com/litten/hexo-theme-yilia)主题, 很不错的主题。
+
+
+
+
