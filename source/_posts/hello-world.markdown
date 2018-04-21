@@ -7,6 +7,7 @@ tags:
 	- 杂谈 
 	- 日志
 key: "1"
+reward: true
 ---
 
 <img src="http://oxoz3bzmd.bkt.clouddn.com/18-2-27/9257867.jpg-picture" alt="广州" width="400">
