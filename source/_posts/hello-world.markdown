@@ -4,13 +4,13 @@ title: "Hello World"
 date: 2017-04-01 20:22
 comments: true
 tags: 
-	- 杂谈 
-	- 日志
+    - 杂谈 
+    - 日志
 key: "1"
 reward: true
 ---
 
-<img src="http://oxoz3bzmd.bkt.clouddn.com/18-2-27/9257867.jpg-picture" alt="广州" width="400">
+<img src="https://wx4.sinaimg.cn/mw690/005Lzozrgy1ftqwqmjiqaj30xc0m97c7.jpg" alt="广州" width="400">
 
 曾在一个轻日记软件看到过这样一句话：
 **"生活是需要记录的， 每个人都是生活的艺术家。"**
@@ -39,7 +39,6 @@ reward: true
 所以，`hello world` 这世界， 我来了。
 
 感谢**litten**分享的[yilia](https://github.com/litten/hexo-theme-yilia)主题, 很不错的主题。
-
 
 <!-- 
 别的页面的应用的引用
