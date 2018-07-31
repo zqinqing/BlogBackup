@@ -59,7 +59,8 @@ top: true
 open_in_new: true
 
 # Miscellaneous
-baidu_analytics: 'a30844fa2bcbce0a9e001fe06cefeddf'
+# baidu_analytics: 'a30844fa2bcbce0a9e001fe06cefeddf'
+baidu_analytics: 'bbb52337b8b0bcd5135f81a159d19cc2'
 google_analytics: false
 favicon: /assets/img/favicon.ico
 

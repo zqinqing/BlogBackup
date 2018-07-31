@@ -7,10 +7,11 @@ tags:
     - 杂谈 
     - 日志
 key: "1"
-reward: true
+<!-- reward: true -->
+brief: "记住生活的每一个瞬间"
 ---
 
-<img src="https://wx4.sinaimg.cn/mw690/005Lzozrgy1ftqwqmjiqaj30xc0m97c7.jpg" alt="广州" width="600">
+<img src="https://wx4.sinaimg.cn/large/005Lzozrgy1ftqwqmjiqaj30xc0m97c7.jpg" alt="广州" width="600">
 
 曾在一个轻日记软件看到过这样一句话：
 **"生活是需要记录的， 每个人都是生活的艺术家。"**
